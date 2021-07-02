@@ -66,8 +66,8 @@ void dijkstra(ll s) {
     while(!q.empty()){
         pair<ll,ll> p = q.top();
         q.pop();
-        ll d = p.second;
-        ll node = p.first;
+        ll d = p.first;
+        ll node = p.second;
         if(visited[node] != -1){
             continue;
         }
