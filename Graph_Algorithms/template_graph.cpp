@@ -4,6 +4,7 @@ using namespace std;
 typedef long long ll;
 typedef long double ld;
 #define mod 1000000007
+#define all(x) begin(x), end(x)
 // string dec_num = "982892";
 // ll num = stoll(dec_num,nullptr,10); num = 982892
 
