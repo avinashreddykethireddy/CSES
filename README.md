@@ -1,4 +1,4 @@
 # CSES Problems Solutions That I have solved
 
-- you can see question at <a href="https://cses.fi/problemset/list">CSES</a>
+- You can see questions at <a href="https://cses.fi/problemset/list">CSES</a>
 
